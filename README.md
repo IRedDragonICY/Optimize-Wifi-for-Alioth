@@ -5,7 +5,9 @@ Features
 
 > Force 40 Mhz bandwith
 
-> many more..
+> WARNING!! More Throughput Power
+
+> And many more..
 
 # Documentation
 
