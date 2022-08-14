@@ -9,4 +9,4 @@ Features
 
 # Documentation
 
-Setelah sepenuhnya stabil, saya akan buatkan dokumentasi (≧▽≦)
+Setelah sepenuhnya stabil, saya akan buatkan dokumentasi sementara file changes bisa dilihat di file kemudian di extract. (≧▽≦)
