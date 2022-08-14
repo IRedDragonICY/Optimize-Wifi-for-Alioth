@@ -1,7 +1,7 @@
 # Optimize-Wifi-for-Alioth
 
 Features
- Disable Wifi Logger
+> Disable Wifi Logger
 
 > Force 40 Mhz bandwith
 
