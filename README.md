@@ -1,4 +1,5 @@
 # Optimize-Wifi-for-Alioth
+[![Github All Releases](https://img.shields.io/github/downloads/IRedDragonICY/Optimize-Wifi-for-Alioth/total.svg)]()
 
 # WARNING
 >Your warranty is now void.
