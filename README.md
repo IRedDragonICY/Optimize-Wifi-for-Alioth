@@ -1,4 +1,5 @@
 # Optimize-Wifi-for-Alioth
+![Xiaomi](https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)
 [![Github All Releases](https://img.shields.io/github/downloads/IRedDragonICY/Optimize-Wifi-for-Alioth/total.svg)]()
 
 # WARNING
