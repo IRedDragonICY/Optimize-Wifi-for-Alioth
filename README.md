@@ -15,6 +15,8 @@ Wifi radiation, no connection or you getting fired because the alarm App failed.
 
 * More Throughput Power
 
+* Disable Wifi Thermal
+
 * And many more..
 
 # Documentation
