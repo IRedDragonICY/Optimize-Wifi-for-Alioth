@@ -15,6 +15,8 @@ Poco F3/Redmi K40/Mi 11X
 
 * Force 40 Mhz bandwith
 
+* Force 802.11 n/ac only
+
 * More Throughput Power
 
 * Disable Wifi Thermal
