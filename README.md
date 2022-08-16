@@ -23,6 +23,10 @@ Poco F3/Redmi K40/Mi 11X
 
 >P.S. Module ini akan membuat Wifi semakin agresif!!!
 
+# Suggestion
+
+Saya sangat apresiasi jika ada yang ingin memberikan saran, tulis di dalam issues tracker.
+
 # Documentation
 
 Setelah sepenuhnya stabil, saya akan buatkan dokumentasi sementara file changes bisa dilihat di file kemudian di extract. (≧▽≦)
