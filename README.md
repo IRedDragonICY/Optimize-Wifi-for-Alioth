@@ -9,6 +9,8 @@ Wifi radiation, no connection or you getting fired because the alarm App failed.
 
 # Supported Devices
 Poco F3/Redmi K40/Mi 11X
+
+Kompatibel semua ROM.
 # Features
 
 * Disable Wifi Logger
