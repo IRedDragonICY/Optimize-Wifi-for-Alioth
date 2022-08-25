@@ -10,7 +10,7 @@ Wifi radiation, no connection or you getting fired because the alarm App failed.
 # Supported Devices
 Poco F3/Redmi K40/Mi 11X
 
-Kompatibel semua ROM.
+.
 # Features
 
 * Disable Wifi Logger
@@ -25,12 +25,11 @@ Kompatibel semua ROM.
 
 * And many more..
 
->P.S. Module ini akan membuat Wifi semakin agresif!!!
+>P.S. This module will make Wifi more aggressive!!!
 
 # Suggestion
+I really appreciate if anyone wants to give advice, write it in the issues tracker.
 
-Saya sangat apresiasi jika ada yang ingin memberikan saran, tulis di dalam issues tracker.
 
 # Documentation
-
-Setelah sepenuhnya stabil, saya akan buatkan dokumentasi sementara file changes bisa dilihat di file kemudian di extract. (≧▽≦)
+After it is fully stable, I will make temporary documentation of the file changes that can be seen in the file and then extracted. (≧▽≦)
